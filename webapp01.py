@@ -5,18 +5,18 @@ from PIL import Image
 
 image01 = Image.open('queen_-_logo__reproducao.jpg')
 # Use st.title("") para adicionar um TÍTULO ao seu Web app
-st.title("Bem vindo, EMEF/EJA Edson Luis Lima Souto!")
+st.title("Bem vindo, ao trabalho de escola!")
 
 # Use st.header("") para adicionar um CABEÇALHO ao seu Web app
-st.header("Cabeçalho")
+st.header("QUEEN")
 
 # Use st.subheader("") para adicionar um SUB CABEÇALHO ao seu Web app
-st.subheader("Sub Cabeçalho")
+st.subheader("melhor banda ever")
 
 # Use st.write("") para adicionar um texto ao seu Web app
 st.write("Como já deve ter percebido, o método st.write() é usado para escrita de texto e informações gerais!")
 
-st.subheader("------ **Desenvolvido por: Massaki de O. Igarashi** -----")
+st.subheader("------ **Desenvolvido por: Theo santos silva** -----")
 
 menu = ["Texto_Colunas",
         "Texto_Markdown",
