@@ -14,7 +14,7 @@ st.header("QUEEN")
 st.subheader("melhor banda ever")
 
 # Use st.write("") para adicionar um texto ao seu Web app
-st.write("Como já deve ter percebido, o método st.write() é usado para escrita de texto e informações gerais!")
+st.write("Matheus John e o Ruan são os melhores")
 
 st.subheader("------ **Desenvolvido por: Theo santos silva** -----")
 
