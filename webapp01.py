@@ -22,16 +22,16 @@ menu = ["Texto_Colunas",
         "Texto_Markdown",
         "Inserir_Figura"]
 choice = st.sidebar.selectbox("Menu de Opções",menu)
-st.sidebar.write("Texto Side Bar")
+st.sidebar.write("John e foda em tudo")
     
 if choice == "Texto_Colunas":       
-    st.subheader("Texto formatado em colunas")
-    st.write("Veja a seguir uma opção de formatação em colunas")    
+    st.subheader("Ruan e o melhor em tudo")
+    st.write("Matheus gay")    
     cols01 = st.columns(2)    
     cols01[0].write('Texto da Coluna 01')
     cols01[1].write('Texto da Coluna 02')
-elif choice == "Texto_Markdown":
-    st.subheader("Texto Markdown")
+elif choice == "eu sou bom em fisica":
+    st.subheader("Não sei por quê")
     st.write("Veja a seguir opção de formatação de texto Markdown")
     st.markdown(
     """
