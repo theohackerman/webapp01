@@ -18,9 +18,9 @@ st.write("Matheus John e o Ruan são os melhores")
 
 st.subheader("------ **Desenvolvido por: Theo santos silva** -----")
 
-menu = ["Texto_Colunas",
-        "Texto_Markdown",
-        "Inserir_Figura"]
+menu = ["que isso meu filho calma",
+        "eeoooo potencia",
+        "cavalo"]
 choice = st.sidebar.selectbox("Menu de Opções",menu)
 st.sidebar.write("John e foda em tudo")
     
